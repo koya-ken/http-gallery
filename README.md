@@ -8,3 +8,5 @@ https://stackoverflow.com/questions/28567733/how-to-encode-image-to-send-over-py
 https://github.com/sachinchoolur/lg-pager
 https://www.jsdelivr.com/package/npm/lg-thumbnail
 https://www.jsdelivr.com/package/npm/lg-pager
+
+http://sachinchoolur.github.io/lightGallery/1.1-docs/settings.html
